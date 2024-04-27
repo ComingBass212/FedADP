@@ -12,7 +12,7 @@ pytorch>=1.7.1 & <=1.9
 #Datastes
 We provide the dataset in the data folder.
 
-| Data | Source|
-|---------|---------|
-| KDR | [Link](https://www.kaggle.com/competitions/diabetic-retinopathy-detection)|
-| APTOS |[Link](https://kaggle.com/competitions/aptos2019-blindness-detection)|
+| Data | Source| Description |
+|---------|---------|---------|
+| KDR | [Link](https://www.kaggle.com/competitions/diabetic-retinopathy-detection)|Images have five possible ratings, 0,1,2,3,4.  Each image is characterized by a tuple (e,e), which corresponds to its scores by Rater A (human) and Rater B (predicted).|
+| APTOS |[Link](https://kaggle.com/competitions/aptos2019-blindness-detection)|Images have five possible ratings, 0,1,2,3,4(13376 samples).
