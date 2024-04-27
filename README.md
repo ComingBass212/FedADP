@@ -15,5 +15,4 @@ We provide the dataset in the data folder.
 | Data | Source|
 |---------|---------|
 | KDR | [Link](https://www.kaggle.com/competitions/diabetic-retinopathy-detection)|
-| APTOS | [Link](https://kaggle.com/competitions/
-aptos2019-blindness-detection)|
+| APTOS |[Link](https://kaggle.com/competitions/aptos2019-blindness-detection)|
