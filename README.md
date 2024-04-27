@@ -4,5 +4,16 @@
 
 # Prerequisites
 Make sure your local environment has the following installed:
-  cuda version < 11.0
-  pytorch>=1.7.1 & <=1.9
+
+cuda version < 11.0
+  
+pytorch>=1.7.1 & <=1.9
+
+#Datastes
+We provide the dataset in the data folder.
+
+| Data | Source|
+|---------|---------|
+| KDR | [Link](https://www.kaggle.com/competitions/diabetic-retinopathy-detection)|
+| APTOS | [Link](https://kaggle.com/competitions/
+aptos2019-blindness-detection)|
